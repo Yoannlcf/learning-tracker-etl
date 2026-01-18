@@ -41,8 +41,11 @@ Le pipeline suit une architecture ETL classique :
    ```bash
    docker run -d -p 3000:3000 -v "${PWD}:/notion_project" metabase/metabase
 
-## 📈 Visualisation
-Une fois connecté à Metabase, les données permettent de suivre la répartition des sujets d'étude (Data Engineering, IA, Jazz Manouche) et l'état d'avancement des objectifs.
+### 📊 Visualisation & Business Intelligence
+Le dashboard permet de suivre en temps réel la répartition de mes apprentissages (Data Engineering, IA, Jazz Manouche) et l'état d'avancement des objectifs.
+
+### 💡 Logique SQL :
+Pour plus de détails sur les indicateurs de performance (KPIs) et les requêtes analytiques utilisées (comme le calcul de stagnation days_stuck), consultez le dossier ./metabase/queries.md.
 
 ## 👨‍💻 Yoann Lehong Cheffson
 ### Diplômé BUT Informatique & Bachelor Science des données et IA (UQAC)
