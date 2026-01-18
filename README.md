@@ -47,4 +47,4 @@ Une fois connecté à Metabase, les données permettent de suivre la répartitio
 ## 👨‍💻 Yoann Lehong Cheffson
 ### Diplômé BUT Informatique & Bachelor Science des données et IA (UQAC)
 - Consultez mon [profil LinkedIn](https://www.linkedin.com/in/yoann-lehong-cheffson/)
-- [Mon GitHub](https://github.com/Yoannlcf/My-Data-Journey/tree/main")
+- Consultez mon [Mon GitHub](https://github.com/Yoannlcf/My-Data-Journey/tree/main")
